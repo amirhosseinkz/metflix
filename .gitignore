@@ -1,0 +1,80 @@
+# Flutter/Dart related
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Flutter tooling
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IntelliJ / Android Studio
+*.iml
+.idea/
+*.ipr
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# Generated plugin files
+.pub-cache/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# Android
+**/local.properties
+**/android/local.properties
+.gradle/
+**/android/.gradle/
+/**/android/app/*.keystore
+/build/
+/captures/
+/.navigation/
+
+# iOS / Xcode
+**/Pods/
+**/Podfile.lock
+**/Runner.xcworkspace/
+DerivedData/
+**/xcuserdata/
+*.xcscmblueprint
+*.xcodeproj/project.xcworkspace/
+*.xcuserstate
+
+# Windows
+**/windows/Flutter/ephemeral/
+**/windows/runner/Debug/
+
+# Web
+**/web/build/
+**/web/.dart_tool/
+
+# Firebase & Google Services
+FirebaseService-Info.plist
+google-services.json
+firebase.json
+
+# Miscellaneous
+*.log
+*.lock
+*.class
+*.dex
+*.apk
+*.ap_
+*.so
+*.swp
+
+# User-specific files
+metadata.xml
